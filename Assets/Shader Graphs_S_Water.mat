@@ -42,13 +42,14 @@ Material:
     - _EdgeSize02: 0.473
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _WaveEdge: 0.0601
-    - _WaveEdge02: 0
-    - _WaveSpeed: 0.05
+    - _WaveEdge: 0.0479
+    - _WaveEdge02: 0.035
+    - _WaveSpeed: 0.01
     m_Colors:
-    - _OutLineColor: {r: 1.1278583, g: 1.1082945, b: 2.7320752, a: 1}
-    - _WaterColor: {r: 0, g: 0.3391978, b: 0.8415094, a: 1}
-    - _WaveColor: {r: 0, g: 0.1263436, b: 0.4641509, a: 1}
+    - _OutLineColor: {r: 0.4141509, g: 0.3911002, b: 1.3592336, a: 1}
+    - _WaterColor: {r: 0.3517711, g: 0.6783862, b: 0.8773585, a: 1}
+    - _WaterColor02: {r: 0, g: 0.74100685, b: 1, a: 1}
+    - _WaveColor: {r: 0, g: 0.4607745, b: 0.5471698, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &2714554479067810085
