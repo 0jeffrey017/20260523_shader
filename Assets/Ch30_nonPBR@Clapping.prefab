@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5412937471116144941
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.3238695
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.67679346
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.3220381
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.94672674
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -217.572
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_Name
+      value: Ch30_nonPBR@Clapping
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 19a21d29e4a41834a9917ead3532eb67, type: 2}
+    - target: {fileID: 5866666021909216657, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1144576899757431397}
+  m_SourcePrefab: {fileID: 100100000, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+--- !u!1 &5179126525802990716 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f880b19c03df74a4d9afa9e78120b509, type: 3}
+  m_PrefabInstance: {fileID: 5412937471116144941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1144576899757431397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5179126525802990716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 643a414018b69de43b936fd2ecd1a1d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PatrolAndAttackAI
+  patrolPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  moveSpeed: 3
+  turnSpeed: 10
+  arrivalDistance: 0.2
+  attackInterval: 2
