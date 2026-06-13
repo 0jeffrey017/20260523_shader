@@ -42,15 +42,9 @@ Material:
     - _EdgeSize02: 0.473
     - _QueueControl: 0
     - _QueueOffset: 0
-<<<<<<< Updated upstream:Assets/Shader Graphs_S_Water.mat
-    - _WaveEdge: 0.0479
-    - _WaveEdge02: 0.035
-    - _WaveSpeed: 0.01
-=======
     - _WaveEdge: 0
     - _WaveEdge02: 0.01
     - _WaveSpeed: 0
->>>>>>> Stashed changes:Assets/Shader/Shader Graphs_S_Water.mat
     m_Colors:
     - _OutLineColor: {r: 0.4141509, g: 0.3911002, b: 1.3592336, a: 1}
     - _WaterColor: {r: 0.3517711, g: 0.6783862, b: 0.8773585, a: 1}
